@@ -1,2 +1,5 @@
 # Python
 Python is the very first programming language that truly made me curious about how computers “think.” I like it because the syntax feels simple, clean, and not too scary for beginners like me. I can focus on learning how logic works instead of getting lost in complicated symbols. Right now, I’m still exploring Python step by step — writing small scripts, making mistakes, fixing them, and learning again. I use Python for my backend learning journey and also for my OSN Informatika preparation. I really enjoy how flexible it is: you can use Python for almost anything — from creating games, analyzing data, building websites, to automating boring stuff. I hope as I keep learning, I can create cool projects that show how much I’ve grown. Slowly but surely, I’ll get better at writing cleaner and smarter code with Python. 🐍
+
+This repository is made not only for my own learning journey but also for anyone who wants to learn with me.
+I hope you enjoy exploring my repo and find something new to learn. Let’s keep growing together, one line of code at a time! 🚀
