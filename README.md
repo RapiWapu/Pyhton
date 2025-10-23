@@ -1,2 +1,2 @@
 # Python
-Python adalah salah satu code yang saya suka karena mudah untuk dipelajari dan mudah di pahami 
+Python is a high-level, beginner-friendly programming language known for its clean and easy-to-read syntax. It’s widely used in various fields like web development, data analysis, automation, artificial intelligence, and even game development. Because of its simplicity, Python is often the first language new programmers learn—it allows you to focus on solving problems rather than struggling with complex syntax. With a massive community and thousands of libraries, Python makes building projects faster and more enjoyable. 🐍💻
